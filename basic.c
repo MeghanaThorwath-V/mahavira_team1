@@ -2,9 +2,10 @@
 
 int main()
 {  
- printf("hello,this is harshitha");
- printf("Hello, This is Tejaswini\n");
+ printf("\nhello,this is harshitha");
+ printf("\nHello, This is Tejaswini\n");
  printf("Hello, this is hamsini");
- printf("Hello, this is Uzmakousar\n");
+ printf("\nHello, this is Uzmakousar\n");
+ printf("Hello..Iam Rupa..!");
  return 0;
 }
