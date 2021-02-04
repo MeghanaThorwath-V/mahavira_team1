@@ -3,10 +3,7 @@
 int main()
 {  
  printf("hello world");
- printf("hello Meghana Thorwath");
- 
-
-
+ printf("This is Meghana Thorwath");
     
  printf("hello world");
  printf("hello sathyavikas");
