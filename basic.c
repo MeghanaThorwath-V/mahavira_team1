@@ -3,9 +3,10 @@
 int main()
 {
     
- printf("hello world");
- printf("hello sathyavikas");
- printf("hai");
- printf("hello hamsini");
+ printf("\nhello world");
+ printf("\nhello sathyavikas");
+ printf("\nhai Pradeep");
+ printf("\nhello hamsini");
+ printf("\nHello..Rupa..!");
  return 0;
 }
