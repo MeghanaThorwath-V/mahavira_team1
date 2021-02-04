@@ -1,10 +1,9 @@
 #include<stdio.h>
 
 int main()
-{
-    
+{  
  printf("hello world");
- printf("hello sathyavikas");
- printf("hai\n hello");
+ printf("hello Meghana Thorwath");
+ 
  return 0;
 }
