@@ -3,5 +3,8 @@
 int main()
 {  
  printf("hello this is hamsini");
- return 0;
+ printf("\nhello im srinivas");
+ 
+return 0;
+
 }
