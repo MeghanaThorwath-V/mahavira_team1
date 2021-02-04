@@ -9,5 +9,6 @@ printf("\nhello,this is harshitha");
  printf("\nHello, this is Uzmakousar\n");
  printf("Hello..Iam Rupa..!");
  printf("hello..Meghana Thorwath");
+ printf( "hello...sathyavikas");
  return 0;
 }
