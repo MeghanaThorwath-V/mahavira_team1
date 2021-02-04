@@ -7,5 +7,6 @@ int main()
  printf("hello sathyavikas");
  printf("hai");
  printf("hello hamsini");
+ printf("hello,i am harshitha");
  return 0;
 }
